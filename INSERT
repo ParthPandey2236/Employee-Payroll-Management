@@ -120,7 +120,7 @@ INSERT INTO Salary VALUES (10,76800,40,300,1300,49);
 
 create directory ext_Salaries
 as 'C:\Users\phansekar.o\Desktop\Salary.csv'
-/
+//
 
 
 create table Salary_External (
