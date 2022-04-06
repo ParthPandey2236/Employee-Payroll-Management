@@ -1,4 +1,4 @@
---CREATE TABLES--
+---CREATE TABLES---
 Employee
 ---------------------------------------------------
 CREATE TABLE Employee(
